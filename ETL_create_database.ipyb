@@ -332,7 +332,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "importing rows 0 to 1000000...importing rows 1000000 to 2000000...importing rows 2000000 to 3000000...importing rows 3000000 to 4000000..."
+      "importing rows 0 to 1000000...importing rows 1000000 to 2000000...importing rows 2000000 to 3000000...importing rows 3000000 to 4000000...importing rows 4000000 to 5000000...importing rows 5000000 to 6000000...importing rows 6000000 to 7000000...importing rows 7000000 to 8000000...importing rows 8000000 to 9000000..."
      ]
     }
    ],
